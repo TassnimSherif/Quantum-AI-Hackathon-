@@ -25,3 +25,12 @@ H₂SO₄ ≈ -688.199187 Ha
 ΔE increases with more H₂O molecules
 
 Reaction rate increases with higher RH — supporting climate relevance
+
+# Team Members and Roles
+Hamza Benkadour – Quantum Code Implementation, Data Collection
+
+Tassnim Sherif Ali – Chemistry Analysis, Presentation
+
+Amr Ayman Elkousy – Results Interpretation, Presentation
+
+Menna Allah Mohammed Zaied – Data Support, References, Presentation
